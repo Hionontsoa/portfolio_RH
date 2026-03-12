@@ -98,7 +98,7 @@ export default function SectionAPropos() {
             {/* Bouton CV et Stats rapides */}
             <div className=" flex flex-wrap gap-6 items-center">
               <a 
-                href="/src/assets/CV_2026_Hionontsoa_RABEMALALA.pdf" 
+                href="/CV_2026_Hionontsoa_RABEMALALA.pdf" 
                 download
                 className="px-8 py-4 bg-slate-900 dark:bg-primaire text-white rounded-2xl font-bold flex items-center gap-2 hover:bg-slate-800 dark:hover:bg-indigo-700 transition-all shadow-xl shadow-slate-200 dark:shadow-none group cursor-pointer active:scale-95"
               >

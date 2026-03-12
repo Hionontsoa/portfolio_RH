@@ -22,23 +22,6 @@ import {
   Monitor
 } from 'lucide-react';
 
-import optimalife1 from './assets/optimalife1.png';
-import optimalife2 from './assets/optimalife2.png';
-import optimalife3 from './assets/optimalife3.png';
-import optimalife4 from './assets/optimalife4.png';
-import optimalife5 from './assets/optimalife5.png';
-import optimalife6 from './assets/optimalife6.png';
-import optimalife7 from './assets/optimalife7.png';
-import optimalife8 from './assets/optimalife8.png';
-
-import profile1 from './assets/profile1.png';
-import profile2 from './assets/profile2.png';
-import profile3 from './assets/profile3.png';
-import profile4 from './assets/profile4.png';
-import profile5 from './assets/profile5.png';
-import profile6 from './assets/profile6.png';
-
-
 
 export const LIENS_NAVIGATION = [
   { nom: 'Accueil', href: '#accueil' },
@@ -195,16 +178,16 @@ export const PROJETS = [
   {
     titre: 'OptimaLife',
     description: 'Application web moderne de gestion de tâches avec authentification et base de données Supabase.',
-    image: optimalife1,
+    image: "/optimalife1.PNG",
     galerie: [
-      optimalife1,
-      optimalife2,
-      optimalife3,
-      optimalife4,
-      optimalife5,
-      optimalife6,
-      optimalife7,
-      optimalife8,
+      "/optimalife1.PNG",
+      "/optimalife2.PNG",
+      "/optimalife3.PNG",
+      "/optimalife4.PNG",
+      "/optimalife5.PNG",
+      "/optimalife6.PNG",
+      "/optimalife7.PNG",
+      "/optimalife8.PNG",
     ],
     technologies: ['React', 'Supabase', 'Vercel'],
     lienDemo: 'https://optimalife.vercel.app/',
@@ -213,14 +196,14 @@ export const PROJETS = [
   {
     titre: 'Portfolio Personnel',
     description: 'Ce portfolio même, conçu pour présenter mes compétences et mes projets de manière élégante.',
-    image: profile1,
+    image: "/profile1.PNG",
     galerie: [
-      profile1,
-      profile2,
-      profile3,
-      profile4,
-      profile5,
-      profile6,
+      "/profile1.PNG",
+      "/profile2.PNG",
+      "/profile3.PNG",
+      "/profile4.PNG",
+      "/profile5.PNG",
+      "/profile6.PNG",
     ],
     technologies: ['React', 'Tailwind', 'Framer Motion'],
     lienDemo: '#',

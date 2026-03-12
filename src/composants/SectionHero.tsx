@@ -119,7 +119,7 @@ export default function SectionHero() {
         >
           <div className="relative z-10 bg-white dark:bg-fond-carte p-3 sm:p-4 rounded-[2.5rem] sm:rounded-[3rem] shadow-2xl shadow-indigo-100/50 dark:shadow-none border border-slate-100 dark:border-slate-800 group">
             <img 
-              src="/src/assets/hionontsoa.png" 
+              src="/hionontsoa.png" 
               alt="Développeur au travail" 
               className="rounded-[2rem] sm:rounded-[2.5rem] w-full object-cover aspect-[4/5] grayscale group-hover:grayscale-0 transition-all duration-700"
               referrerPolicy="no-referrer"
