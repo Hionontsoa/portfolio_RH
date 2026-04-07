@@ -1,20 +1,91 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 Mon Portfolio - Hionontsoa
 
-# Run and deploy your AI Studio app
+Bienvenue sur mon portfolio !  
+Je suis étudiant en informatique, passionné par le développement d'applications, le trading Forex et les nouvelles technologies.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/0c4d4cbc-b8d2-40fe-bb5f-7d1d5ef82a7f
+## 👨‍💻 À propos de moi
 
-## Run Locally
+- 🎓 Étudiant en 3ème année en Informatique de gestion, Génie logiciel & Intelligence Artificielle
+- 💻 Développeur Web 
+- correction bug
 
-**Prerequisites:**  Node.js
+---
+
+## 🛠️ Compétences
+
+### 🔹 Langages
+- HTML / CSS / JavaScript
+- TypeScript
+- C#
+- Python (bases)
+
+### 🔹 Frameworks & Outils
+- React.js
+- TailwindCSS
+- Unity
+- Git & GitHub
+- VS Code
+- WAMP / phpMyAdmin
+-DBeaver
+
+---
+
+## 📂 Projets
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🔹 Projet 1 : Système de gestion des magasins et factures
+
+Développement d’une application web permettant de gérer et d’analyser les données de facturation provenant de plusieurs magasins.
+Le système récupère les numéros de magasins à partir des données de facturation, identifie les magasins correspondants dans la base de données, puis génère une liste structurée des magasins avec leurs informations.
+
+🛠 Technologies utilisées :
+
+* Python
+* Django
+* PostgreSQL / SQL
+* Django ORM & requêtes SQL personnalisées
+
+🎯 **Fonctionnalités principales :**
+• Récupération des numéros de magasins depuis les données de facturation
+• Correspondance automatique avec les informations des magasins
+• Formatage et traitement des données
+• Génération dynamique de listes exploitables pour l’application
+
+Ce projet m’a permis de renforcer mes compétences en développement backend avec Django, gestion de bases de données et optimisation des requêtes SQL.
+
+
+🔹 Projet 2 Full-Stack : OptimaLife
+
+J'ai le plaisir de vous présenter OptimaLife, une application web de gestion personnelle que j'ai conçue pour centraliser finances, productivité et objectifs de vie.
+🛠 Stack Technique :
+Frontend : React.js, TypeScript, Tailwind CSS
+Animations : Framer Motion
+Backend : Supabase (Auth, PostgreSQL, Storage)
+Ce projet m'a permis de relever des défis complexes en matière de gestion de données en temps réel, de s
+
+
+
+## 📈 Objectifs
+
+- 💰 Générer des revenus en ligne (freelance + apps)
+- 🚀 Publier plusieurs applications rentables
+- 🌍 Travailler à l’international (Canada 🇨🇦)
+
+
+---
+
+## 📬 Contact
+
+- 📧 Email : hionontsoa1707@gmail.com
+- 💼 LinkedIn : https://www.linkedin.com/in/hionontsoa-rabemalala-b10b90350/
+- 🌐 Portfolio : https://hionontsoaportfolio.vercel.app/
+
+---
+
+## ⭐ Merci !
+
+Merci d’avoir visité mon portfolio 🙌  
+N’hésite pas à me contacter pour collaborer !
+
